@@ -39,7 +39,7 @@
                 <div class="form-group row mb-6">
                         <div class="col-md-6 offset-md-5">
                             <a class="btn btn-primary" href="/registro" role="button">REGISTRARSE</a>
-                            <a class="btn btn-success" href="/login" role="button">INGRESAR</a>
+                            <a class="btn btn-success" href="/cliente" role="button">INGRESAR</a>
                            
                         </div>
                     </div>
